@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.jumbotron {
+    padding-top: 10rem;
+    background-color: #ffebee;
+}
+
+#quotes {
+    background-color: #ffebee;
+}
+
+section{
+    padding-top: 5rem;
+}
+
